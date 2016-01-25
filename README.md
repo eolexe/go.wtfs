@@ -10,4 +10,8 @@ In this tutorial we review following issues:
 - How to peroperly close http response
 - Closures and loop variables
 - Addressing objects in maps
-- Cricular package import 
+- Cricular package import
+
+
+Inspiration is taken from:
+http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
